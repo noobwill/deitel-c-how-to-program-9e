@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void){
 	int x;
 	int y;
 	printf("%s", "Enter two integers: ");
