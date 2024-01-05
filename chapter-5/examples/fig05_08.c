@@ -39,6 +39,8 @@ int main(void){
 	// global x also retains its value
 	useGlobal();
 
+
+	// print local variable x in main to show that none of the function calls modified x’s value because the functions all referred to variables in other scopes
 	printf("\nlocal x in main is %d\n", x);
 }
 
