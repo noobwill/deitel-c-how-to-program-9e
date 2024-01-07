@@ -14,7 +14,7 @@ void printArray(const int a[]);
 // main begins program execution
 int main(void){
 	// initialize array frequency
-	int frequency[10] = { 0 };
+	int frequency[10] = {0};
 
 	// initialize array response
 	int response[SIZE] =
